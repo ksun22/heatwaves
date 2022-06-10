@@ -14,6 +14,7 @@
 		43302FAE281DD0B3007D2E6B /* heatwavesTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43302FAD281DD0B3007D2E6B /* heatwavesTests.swift */; };
 		43302FB8281DD0B3007D2E6B /* heatwavesUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43302FB7281DD0B3007D2E6B /* heatwavesUITests.swift */; };
 		43302FBA281DD0B3007D2E6B /* heatwavesUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43302FB9281DD0B3007D2E6B /* heatwavesUITestsLaunchTests.swift */; };
+		43302FC9281DE787007D2E6B /* Card.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43302FC8281DE787007D2E6B /* Card.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		43302FB3281DD0B3007D2E6B /* heatwavesUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = heatwavesUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		43302FB7281DD0B3007D2E6B /* heatwavesUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = heatwavesUITests.swift; sourceTree = "<group>"; };
 		43302FB9281DD0B3007D2E6B /* heatwavesUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = heatwavesUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		43302FC8281DE787007D2E6B /* Card.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Card.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +100,7 @@
 				43302F9E281DD0B2007D2E6B /* ContentView.swift */,
 				43302FA0281DD0B3007D2E6B /* Assets.xcassets */,
 				43302FA2281DD0B3007D2E6B /* Preview Content */,
+				43302FC8281DE787007D2E6B /* Card.swift */,
 			);
 			path = heatwaves;
 			sourceTree = "<group>";
@@ -258,6 +261,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				43302F9F281DD0B2007D2E6B /* ContentView.swift in Sources */,
+				43302FC9281DE787007D2E6B /* Card.swift in Sources */,
 				43302F9D281DD0B2007D2E6B /* heatwavesApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
